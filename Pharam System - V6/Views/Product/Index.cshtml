@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Product>
+
+<h1>الأصناف</h1>
+
+<form method="get" asp-action="Search">
+    <label for="searchTerm">Search:</label>
+    <input type="text" name="searchTerm" id="searchTerm">
+    <button type="submit">Search</button>
+</form>
+
+
+<a class="btn btn-primary" asp-action="Create">إضافة صنف</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th> إسم المنتج </th>
+            <th> السعر </th>
+            <th> تفاصيل  المنتج</th>
+            <th> صورة المنتج </th>
+            <th>  الإجراءت</th>
+        </tr>
+             
+    </thead>
+    <tbody>
+        @foreach (var category in Model)
+        {
+            <tr>
+                <td>@category.ProductName</td>
+               <td>@category.ProductPrice</td>
+               <td>@category.ProductDescription</td>
+               <td>@category.ProductImage</td>
+                  <td>
+              <a class="btn btn-primary" asp-action="Edit" asp-route-id="@category.ProductId"> تعديل</a>
+              <a class="btn btn-primary" asp-action="Delete" asp-route-id="@category.ProductId"> حذف</a>
+                  </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,26 @@
+﻿@model Pharam_System___V6.ViewModel.RegisterLoginViewModel
+<div class="login-form-wrap">
+<h2>Login</h2>
+<form asp-controller="Account" asp-action="Index" class="login-form">
+    <div asp-validation-summary="All"></div>
+    <div class="form-group">
+        <label asp-for="Email" class="control-label"></label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Password"></label>
+        <input asp-for="Password" class="form-control"  type="password"/>
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Login</button>
+      <br />
+    <br />
+</form>
+
+    <div id="create-account-wrap">
+           <a  asp-action="Register" asp-controller="Account">انشاء حساب</a>
+            <a  asp-action="ForgotPassword" asp-controller="Account">نسيت كلمة السر</a>
+    </div>
+
+</div>

@@ -1,0 +1,71 @@
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\appsettings.Development.json
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\appsettings.json
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\Pharam System - V6.staticwebassets.runtime.json
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\Pharam System - V6.exe
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\Pharam System - V6.deps.json
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\Pharam System - V6.runtimeconfig.json
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\Pharam System - V6.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\ref\Pharam System - V6.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\Pharam System - V6.pdb
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\Humanizer.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\System.Drawing.Common.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\System.Runtime.Caching.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\System.Security.Permissions.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\System.Windows.Extensions.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\System\Pharam System - V6\Pharam System - V6\obj\Debug\net6.0\Pharam System - V6.csproj.AssemblyReference.cache
+H:\System\Pharam System - V6\Pharam System - V6\obj\Debug\net6.0\Pharam System - V6.GeneratedMSBuildEditorConfig.editorconfig
+H:\System\Pharam System - V6\Pharam System - V6\obj\Debug\net6.0\Pharam System - V6.AssemblyInfoInputs.cache
+H:\System\Pharam System - V6\Pharam System - V6\obj\Debug\net6.0\Pharam System - V6.AssemblyInfo.cs
+H:\System\Pharam System - V6\Pharam System - V6\obj\Debug\net6.0\Pharam System - V6.csproj.CoreCompileInputs.cache
+H:\System\Pharam System - V6\Pharam System - V6\obj\Debug\net6.0\Pharam System - V6.MvcApplicationPartsAssemblyInfo.cs
+H:\System\Pharam System - V6\Pharam System - V6\obj\Debug\net6.0\Pharam System - V6.MvcApplicationPartsAssemblyInfo.cache
+H:\System\Pharam System - V6\Pharam System - V6\obj\Debug\net6.0\Pharam System - V6.RazorAssemblyInfo.cache
+H:\System\Pharam System - V6\Pharam System - V6\obj\Debug\net6.0\Pharam System - V6.RazorAssemblyInfo.cs
+H:\System\Pharam System - V6\Pharam System - V6\obj\Debug\net6.0\staticwebassets.build.json
+H:\System\Pharam System - V6\Pharam System - V6\obj\Debug\net6.0\staticwebassets.development.json
+H:\System\Pharam System - V6\Pharam System - V6\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+H:\System\Pharam System - V6\Pharam System - V6\obj\Debug\net6.0\scopedcss\bundle\Pharam System - V6.styles.css
+H:\System\Pharam System - V6\Pharam System - V6\obj\Debug\net6.0\scopedcss\projectbundle\Pharam System - V6.bundle.scp.css
+H:\System\Pharam System - V6\Pharam System - V6\obj\Debug\net6.0\Pharam System - V6.csproj.CopyComplete
+H:\System\Pharam System - V6\Pharam System - V6\obj\Debug\net6.0\Pharam System - V6.dll
+H:\System\Pharam System - V6\Pharam System - V6\obj\Debug\net6.0\ref\Pharam System - V6.dll
+H:\System\Pharam System - V6\Pharam System - V6\obj\Debug\net6.0\Pharam System - V6.pdb
+H:\System\Pharam System - V6\Pharam System - V6\obj\Debug\net6.0\Pharam System - V6.genruntimeconfig.cache
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\System\Pharam System - V6\Pharam System - V6\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
